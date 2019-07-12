@@ -10,7 +10,7 @@ class GroundVehicle():
 
     # TODO
     def drive(self):
-        return "beep beep"
+        return "vroooom"
 
 # Subclass Motorcycle from GroundVehicle.
 #
